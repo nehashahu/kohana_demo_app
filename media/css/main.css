@@ -1,0 +1,33 @@
+.bottom-border {
+    border-bottom:solid 1px black;
+}
+.logo-header-color {
+    background-color:#231F20;
+    color:#FFF;
+}
+.menu-bar-header-color {
+    background-color:#122C3D;
+    color:#FFF;
+}
+.nav li a {
+    color: #FFF;
+}
+.exposure-title {
+    color:#EC6
+}
+.link-color li a {
+    color:#444
+}
+.form-class {
+	width: 500px;
+	margin: 0 auto;
+	padding: 15px;
+	box-shadow: 0 0 15px #000;
+	border-radius: 15px;
+	background: #FFF;
+}
+
+.row label {
+display: inline-block;
+margin: 10px;
+}
